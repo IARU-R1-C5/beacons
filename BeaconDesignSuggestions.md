@@ -1,4 +1,4 @@
-# IARU R1 VHF and UP Beacon Design Suggestion
+# IARU R1 VHF and UP Beacon Design Suggestions
 
 ## What frequency should I use?
 
