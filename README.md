@@ -10,6 +10,11 @@ If you have any questions related to this database please contact: VHFbeacons@ia
 
 # Frequently Asked Questions (FAQ)
 
+## How can I open the coordinated beacon database XLS file?
+
+You need to right-click on beacons.xls and Save As on your computer.
+Then you need to open this file with your local Excel.
+
 ## Where can I find the list of coordinated beacons?
 
 Please go to https://github.com/IARU-R1-C5/beacons, you will be able to find a static database of coordinated beacons.
