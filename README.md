@@ -19,7 +19,7 @@ Then you need to open this file with your local Excel.
 
 Please go to https://github.com/IARU-R1-C5/beacons, you will be able to find a static database of coordinated beacons.
 
-## Is there any map or searchable webpage where I can find the list of beacon?
+## Is there any map or searchable webpage where I can find the list of beacons?
 
 Not yet, we are working on it.
 
@@ -48,3 +48,12 @@ Based on this information Beacon Coordinator will check if your frequency is not
 After agreeing the details you will receive a confirmation that beacon (based on provided data) is added to the coordinated beacon list.
 
 Please also note that if the beacon that was coordinated will not be spotted on the dxcluster on the frequency that was coordinated for more than 3 years - we will remove it from coordinated beacon list.
+
+## Are there any Guidelines for Beacon Design?
+
+Yes, please check them here in [Beacon Design Suggestions](BeaconDesignSuggestions.md).
+
+## Are there any Guidelines for Beacon Coordination?
+
+Yes, please check them here in [Coordination Guidelines](CoordinationGuidelines.md).
+
