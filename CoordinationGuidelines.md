@@ -2,7 +2,7 @@
 
 ## Coordination representative if beacon owner is not reachable
 
-In case of beacon owner not answering for email contacts, VHF manager of the respective country will be asked to coordinate contact or make final decision on the beacon status in the database
+In case of beacon owner is not answering for email contacts, VHF manager of the respective country will be asked to coordinate contact or make final decision on the beacon status in the database
 
 ## Is the coordinated status permanent?
 
