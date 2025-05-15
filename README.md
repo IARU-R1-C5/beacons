@@ -41,7 +41,7 @@ Please send an email to: VHFbeacons@iaru-r1.org, with the following information:
 11. Contact email address of responsible person (by default coordination requester)
 12. Contact callsign of responsible person (by default coordination requester)
 13. Mode of transmission (CW, MGM, mixed, other), please specify details
-14. Frequency stabilization source (OCXO, TCXO, GPS)
+14. Frequency stabilization source (OCXO, Rubidium, GPS)
 
 Based on this information Beacon Coordinator will check if your frequency is not colliding with othear beacons in their potential collision domain.
 
