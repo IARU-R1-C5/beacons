@@ -24,3 +24,11 @@
 [https://pk-ukf.pl/stacje-automatyczne/radiolatarnie-sp/](https://pk-ukf.pl/stacje-automatyczne/radiolatarnie-sp/)
 
 [https://www.r-e-f.org/index.php?option=com_content&view=article&id=700&Itemid=435](https://www.r-e-f.org/index.php?option=com_content&view=article&id=700&Itemid=435)
+
+# Other sites
+
+[http://www.dl8wx.de/bakenukw.htm](http://www.dl8wx.de/bakenukw.htm)
+
+[https://www.g0lgs.co.uk/showbeacons.php?band=23cm&By=town&Order=ASC&PageNo=1](https://www.g0lgs.co.uk/showbeacons.php?band=23cm&By=town&Order=ASC&PageNo=1)
+
+
