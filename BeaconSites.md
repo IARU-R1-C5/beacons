@@ -1,10 +1,13 @@
 # Webpages keeping lists of beacons.
 
-## VHF
 
-[https://vushf.dk/beacons/](https://vushf.dk/beacons/)
+## Beacon grabbers
 
 [https://www.beaconspot.uk/](https://www.beaconspot.uk/)
+
+## Country VHF Beacon sites
+
+[https://vushf.dk/beacons/](https://vushf.dk/beacons/)
 
 [https://repeater.oevsv.at/de/list](https://repeater.oevsv.at/de/list)
 
