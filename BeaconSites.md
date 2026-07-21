@@ -20,4 +20,4 @@
 
 [https://pk-ukf.pl/stacje-automatyczne/radiolatarnie-sp/](https://pk-ukf.pl/stacje-automatyczne/radiolatarnie-sp/)
 
-
+[https://www.r-e-f.org/index.php?option=com_content&view=article&id=700&Itemid=435](https://www.r-e-f.org/index.php?option=com_content&view=article&id=700&Itemid=435)
