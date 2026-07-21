@@ -2,4 +2,4 @@
 
 ## VHF
 
-[https://vushf.dk/beacons/]()
+[](https://vushf.dk/beacons/)
