@@ -25,6 +25,8 @@
 
 [https://www.r-e-f.org/index.php?option=com_content&view=article&id=700&Itemid=435](https://www.r-e-f.org/index.php?option=com_content&view=article&id=700&Itemid=435)
 
+[https://www.uba.be/en/visiting-belgium/unmanned-stations](https://www.uba.be/en/visiting-belgium/unmanned-stations)
+
 # Other sites
 
 [http://www.dl8wx.de/bakenukw.htm](http://www.dl8wx.de/bakenukw.htm)
