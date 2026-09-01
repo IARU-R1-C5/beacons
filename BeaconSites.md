@@ -33,4 +33,6 @@
 
 [https://www.g0lgs.co.uk/showbeacons.php?band=23cm&By=town&Order=ASC&PageNo=1](https://www.g0lgs.co.uk/showbeacons.php?band=23cm&By=town&Order=ASC&PageNo=1)
 
+[https://www.vhfesuperiori.eu/beacon](https://www.vhfesuperiori.eu/beacon)
+
 
